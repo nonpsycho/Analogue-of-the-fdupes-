@@ -41,6 +41,6 @@ usage: ./mimefdupes [DIRECTORIES...] [MIME TYPE] [OPTIONS]
 - "text/"
 
 ### Options:
--d  Delete duplicates automatically
--i     Interactive delete (ask before each deletion
--n     Dry run (only show what would be deleted
+- d Delete duplicates automatically
+- i Interactive delete (ask before each deletion
+- n Dry run (only show what would be deleted
