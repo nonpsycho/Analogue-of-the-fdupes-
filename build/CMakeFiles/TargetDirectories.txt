@@ -1,0 +1,7 @@
+/home/shizognome/osisp/mimefdupes/build/CMakeFiles/mimefdupes.dir
+/home/shizognome/osisp/mimefdupes/build/CMakeFiles/edit_cache.dir
+/home/shizognome/osisp/mimefdupes/build/CMakeFiles/rebuild_cache.dir
+/home/shizognome/osisp/mimefdupes/build/CMakeFiles/list_install_components.dir
+/home/shizognome/osisp/mimefdupes/build/CMakeFiles/install.dir
+/home/shizognome/osisp/mimefdupes/build/CMakeFiles/install/local.dir
+/home/shizognome/osisp/mimefdupes/build/CMakeFiles/install/strip.dir

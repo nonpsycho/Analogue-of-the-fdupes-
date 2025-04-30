@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/mimefdupes.dir/src/mimefdupes.c.o -o mimefdupes  -lmagic /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
